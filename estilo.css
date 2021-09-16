@@ -1,0 +1,118 @@
+.height-600{
+    height:600px ;
+}
+.height-500{
+    height: 500px;
+}
+.h-400{
+    height: 400px;
+}
+.h-900{
+    height: 900px;
+}
+.h-200{
+    height: 200px !important;
+}
+.h-40{
+    height: 40px;
+}
+.p-45{
+    padding: 45px;
+}
+.padding-top-20{
+    padding-top: 20px;
+}
+.padding-top-50{
+    padding-top: 50px;
+}
+.padding-top-70{
+    padding-top: 70px;
+}
+.padding-top-90{
+    padding-top: 90px;
+}
+.padding-bottom-20{
+    padding-bottom: 20px;
+}
+.margin-top{
+    margin-top: 15%;
+}
+.margin-left{
+    margin-left: 40px;
+}
+.font-size-20{
+    font-size: 20px;
+    font-family: 'STIX Two Math', serif;
+}
+.font-size-43{
+    font-size: 43px;
+    font-family: 'STIX Two Math', serif;
+}
+.font-size-10{
+    font-size: 10px;
+}
+.font-size-15{
+    font-size: 15px;
+}
+.font-size-17{
+    font-size: 17px;
+    font-family: 'STIX Two Math', serif;
+}
+.font-size-18{
+    font-size: 18px;
+}
+.font-size-35{
+    font-size: 35px;
+    background-color: brown;
+    color: white;
+    padding: 13px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+.right{
+    margin-right:20px ;
+}
+.botao-div-1{
+    font-size:17px; 
+    width: 120px;
+}
+.fonte{
+    font-family: 'STIX Two Math', serif !important;
+}
+.cor{
+    color: brown;
+}
+.cor-bg{
+    background-color: brown;
+}
+.tag-titulo{
+    font-size: 12px;
+    background-color: brown;
+    border-radius: 18px;
+    padding: 8px;
+    color:white;
+}
+.espacamento-texto{
+	line-height:5px;
+}
+.imagem-ultima-sobre{
+    border-radius: 100%;
+}
+.icone-input{
+    background-color: brown;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+.icone-contato{
+    font-size: 20px;
+    background-color: brown;
+    border-radius: 7px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.borda-preco{
+    border:1px solid #e1e1e1;
+}
